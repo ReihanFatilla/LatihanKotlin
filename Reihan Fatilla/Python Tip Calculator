@@ -1,0 +1,5 @@
+bill = int(input("Enter The Total : "))
+tip = int(input("Enter Tip ( in % ) : "))
+total = bill * tip / 100
+
+print("The Tip is = ", total)
